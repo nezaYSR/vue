@@ -27,10 +27,3 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-ini box 1
-
-```
-
-ini box 2
-```
